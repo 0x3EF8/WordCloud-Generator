@@ -33,8 +33,7 @@ To run this script, you'll need a few things:
 4. The script will:
    - Read the text from `data.txt`.
    - Show a word cloud on your screen.
-5. The word cloud will be displayed. Use the toolbar’s save icon to download it. The image will be saved in the same folder with the default name wordcloud.png.
-
+5. The word cloud will be displayed. Use the toolbar’s save icon to download it.
 ## Example
 
 If your `data.txt` contains something like:
