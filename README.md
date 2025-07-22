@@ -2,6 +2,8 @@
 
 A simple script that turns your text into a word cloud. It was put together by 0x3ef8 to help visualize the most common words in a fun and colorful way. You can use it to create word clouds from any text file, like reviews or notes.
 
+![Alt text](image.png)
+
 ## What You Need
 
 To run this script, you'll need a few things:
