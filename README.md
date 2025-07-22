@@ -1,6 +1,6 @@
 # Word Cloud Generator
 
-A simple script that turns your text into a word cloud. It was put together by 0x3ef8 to help visualize the most common words in a fun and colorful way. You can use it to create word clouds from any text file, like reviews or notes.
+A simple script that turns your text into a word cloud. It helps visualize the most common words in a fun and colorful way. You can use it to create word clouds from any text file, like reviews or notes.
 
 ![Alt text](image.png)
 
@@ -33,8 +33,7 @@ To run this script, you'll need a few things:
 4. The script will:
    - Read the text from `data.txt`.
    - Show a word cloud on your screen.
-   - Ask if you want to save the word cloud as an image.
-5. If you choose to save (by typing `y` or `yes`), enter a filename or press Enter to use the default (`wordcloud.png`). The image will be saved in the same folder.
+5. The word cloud will be displayed. Use the toolbar’s save icon to download it. The image will be saved in the same folder with the default name wordcloud.png.
 
 ## Example
 
